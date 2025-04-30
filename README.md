@@ -167,9 +167,7 @@ print('Root Mean Squared Error (RMSE):', rmse)
 ![Screenshot 2025-04-30 141000](https://github.com/user-attachments/assets/58d0d711-005d-4cc7-86d8-097cebc95a5d)
 ![Screenshot 2025-04-30 141154](https://github.com/user-attachments/assets/52660918-1005-48fd-885f-54961ff42922)
 ![Screenshot 2025-04-30 141452](https://github.com/user-attachments/assets/fb0a518a-76c0-4ac7-920d-4c5b298eac51)
-![Screenshot 2025-04-30 141510](https://github.com/user-attachments/assets/21b5e03a-0ece-4c4b-bcf3-b1655de61854)
 
-![Screenshot 2025-04-30 141525](https://github.com/user-attachments/assets/7d618dd4-10ea-492f-a855-0e5837229cb9)
 
 
 
